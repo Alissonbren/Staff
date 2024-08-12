@@ -1,0 +1,14 @@
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\bin\Debug\net8.0\Ourinhos Programação.exe
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\bin\Debug\net8.0\Ourinhos Programação.deps.json
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\bin\Debug\net8.0\Ourinhos Programação.runtimeconfig.json
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\bin\Debug\net8.0\Ourinhos Programação.dll
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\bin\Debug\net8.0\Ourinhos Programação.pdb
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.AssemblyInfoInputs.cache
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.AssemblyInfo.cs
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.csproj.CoreCompileInputs.cache
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.dll
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\refint\Ourinhos Programação.dll
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.pdb
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\Ourinhos Programação.genruntimeconfig.cache
+D:\Users\20241170150037\OneDrive - IFRN\Ourinhos Programação\obj\Debug\net8.0\ref\Ourinhos Programação.dll
